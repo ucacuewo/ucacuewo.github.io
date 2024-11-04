@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ucacuewo.github.io/CNL/sitemap_index.txt
+Sitemap: https://ucacuewo.github.io/HaB/sitemap_index.txt
+Sitemap: https://ucacuewo.github.io/OvK/sitemap_index.txt
+Sitemap: https://ucacuewo.github.io/uDd/sitemap_index.txt
